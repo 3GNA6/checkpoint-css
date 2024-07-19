@@ -1,0 +1,69 @@
+.checkpoint{
+    color: darkgreen;
+    text-align: center;
+}
+
+.pdp{
+    color: goldenrod;
+    text-align: center
+
+}
+
+.form{
+    display: none;
+}
+
+/*#first{
+    display: none;
+}*/
+
+span{
+    display:inline-block;
+    text-align: center;
+    background-color: red
+}
+
+.test{
+    color: darkgreen;
+    text-align: center;
+}
+
+.test1{
+    color: darkgreen;
+    text-align: center;
+}
+
+.test2{
+    color: darkgreen;
+    text-align: center;
+}
+
+.test3{
+    color: darkgreen;
+    text-align: center;
+}
+
+#para2{
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 90px;
+}
+
+.tableau-style{
+    color:darkgoldenrod;
+    text-align: center;
+    margin: 42px auto;
+    padding-bottom: 75px;
+}
+
+#lu{
+    text-align: center;
+    color: darkgoldenrod;
+    margin-bottom: 90px;
+}
+
+/*#same{
+    display: none;
+}*/
